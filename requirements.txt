@@ -1,0 +1,4 @@
+flask
+rubik_solver
+numpy
+git+https://github.com/dwalton76/rubiks-cube-tracker.git
